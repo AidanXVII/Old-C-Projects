@@ -315,6 +315,3 @@ if(gameMode == 1){
 //log1: Names work, game does not allow for replay rn.
 //log2: Come back, bug fix this stupid no replay thing.
 //log3: Try putting initialize statement inside the replay while loop.
-
-
-//3:45:00
